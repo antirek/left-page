@@ -1,0 +1,19 @@
+{
+  "name": "left-page",
+  "version": "0.0.1",
+  "homepage": "https://github.com/antirek/left-page",
+  "authors": [
+    "antirek <serge.dmitriev@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
